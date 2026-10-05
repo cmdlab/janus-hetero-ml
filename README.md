@@ -1,0 +1,1 @@
+Machine learning models from following reference: R. Gorelik, T. M. Boland, and A.K. Singh. "Fundamental Factors Governing Stabilization of Janus 2D–Bulk Heterostructures with Machine Learning." ACS Appl. Mater. Interfaces (2025) 17 (23): 34723–34732. https://doi.org/10.1021/acsami.5c03464
